@@ -1,10 +1,10 @@
-- 👋 Hello there, It's @hrackedz
+<p1>👋 Hello there, It's @hrackedz</p1>
 - 👀 I’m interested in Sleeping
 - 🌱 I’m currently learning how to make money sleeping
 - 💞️ I’m looking for a virtual life
 
 Hmmm :D My [Website](www.hrackedz.com)<br>
-Chill with me ? [Telegram](https://t.me/kickflap)
+Chill with me ? [Telegram](https://t.me/kickflap)<br><br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrackedz&theme=tokyonight)
