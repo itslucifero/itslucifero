@@ -1,7 +1,7 @@
-<h1>👋 Hello there, It's @hrackedz</h1>
-- 👀 I’m interested in Sleeping
-- 🌱 I’m currently learning how to make money sleeping
-- 💞️ I’m looking for a virtual life
+<h1>👋 Hello there, It's @hrackedz</h1><br>
+- 👀 I’m interested in Sleeping<br>
+- 🌱 I’m currently learning how to make money sleeping<br>
+- 💞️ I’m looking for a virtual life<br>
 
 Hmmm :D My [Website](www.hrackedz.com)<br>
 Chill with me ? [Telegram](https://t.me/kickflap)<br><br>
