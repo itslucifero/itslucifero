@@ -1,10 +1,10 @@
-<h1>👋 Hello there, It's @cracki</h1><br>
+<h1>👋 Hello there, It's Mr.Hracke</h1><br>
 - 👀 I’m interested in Sleeping<br>
 - 🌱 I’m currently learning how to make money sleeping<br>
 - 💞️ I’m looking for a virtual life<br>
 
 
-Chill with me ? [Telegram](https://t.me/itscracki)<br><br>
+Chill with me ? [Telegram](https://t.me/mr.hracke)<br><br>
 
 
 ## 🧰 Languages and Tools:
@@ -17,5 +17,5 @@ Chill with me ? [Telegram](https://t.me/itscracki)<br><br>
 </p>
 
 
-[![HrackeDz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrackedz)](https://github.com/hrackedz/github-readme-stats)
+[![HrackeDz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hracke)](https://github.com/hracke/github-readme-stats)
 
