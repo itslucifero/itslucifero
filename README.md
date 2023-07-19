@@ -1,10 +1,10 @@
-<h1>👋 Hello there, It's mrhouse998</h1><br>
+<h1>👋 Hello there, It's lucifero</h1><br>
 - 👀 I’m interested in Sleeping<br>
-- 🌱 I’m currently learning how to make money sleeping<br>
-- 💞️ I’m looking for a virtual life<br>
+- 🌱 I’m currently learning how to make money sleeping or dead<br>
+- 💞️ I’m looking for a path<br>
 
 
-Chill with me ? [Telegram](https://t.me/mrhouse998)<br><br>
+Chill with me ? [Telegram](https://t.me/itslucifero)<br><br>
 
 
 ## 🧰 Languages and Tools:
@@ -17,5 +17,5 @@ Chill with me ? [Telegram](https://t.me/mrhouse998)<br><br>
 </p>
 
 
-[![mrhouse998's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhouse998)](https://github.com/mrhouse998/github-readme-stats)
+[![mrhouse998's GitHub stats](https://github-readme-stats.vercel.app/api?username=itslucifero)](https://github.com/itslucifero/github-readme-stats)
 
