@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make money sleeping or dead<br>
 - 💞️ I’m looking for a path<br>
 
-
+Channel ? [@lucif3ernetwork](https://t.me/lucif3rnetwork)<br><br>
 Chill with me ? [Telegram](https://t.me/itslucifero)<br><br>
 
 
